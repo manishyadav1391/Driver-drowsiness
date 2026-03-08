@@ -168,7 +168,7 @@ This project is for educational and demonstration purposes.
 
 ## 👤 Author
 
-Created by: [Your Name]
+Created by: Manish Yadav
 
 ---
 
